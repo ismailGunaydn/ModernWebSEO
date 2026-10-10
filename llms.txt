@@ -1,0 +1,23 @@
+# ModernWebSEO (GitHub Pages hub)
+
+> Official link hub for ModernWebSEO, an Istanbul-based web design, SEO, GEO and AEO studio. Source of truth: https://www.modernwebseo.com. Updated 2026-10-10.
+
+## Pages
+- [Türkçe hub](https://ismailgunaydn.github.io/ModernWebSEO/): services, TRY prices, ready-made sites, methodology, projects, profiles
+- [English hub](https://ismailgunaydn.github.io/ModernWebSEO/en/): same in English
+
+## Main site
+- [modernwebseo.com](https://www.modernwebseo.com)
+- [llms.txt](https://www.modernwebseo.com/llms.txt)
+- [llms-full.txt](https://www.modernwebseo.com/llms-full.txt)
+- [Packages](https://www.modernwebseo.com/paketler)
+- [Ready-made websites](https://www.modernwebseo.com/hazir-web-sitesi)
+- [Methodology](https://www.modernwebseo.com/metodoloji)
+
+## Facts
+- Founded 2020 in Istanbul by İsmail Günaydın
+- Languages: tr, en, es, ar
+- Ready-made sites: Hazır Site 14999 TRY, Hazır Site Plus 24999 TRY, Hazır Site + Yerel SEO 39999 TRY (excl. VAT)
+- Custom sites: Başlangıç Paketi 99999 TRY, Standart Kurumsal Paket 149999 TRY, Premium E-Ticaret Paketi 259999 TRY, Bakım Aboneliği 990 TRY (excl. VAT)
+- No ranking guarantees; no fabricated reviews or ratings
+- Contact: ismailgnydn28@gmail.com, +90 506 545 88 35
